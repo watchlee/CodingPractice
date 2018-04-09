@@ -23,7 +23,7 @@
     <ProjectGuid>{48FE4B36-2081-41DD-BBFD-E894A0E06AC0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>Algorithm</RootNamespace>
-    <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
