@@ -191,3 +191,8 @@ void quickSort2(std::vector<int>&array, int left, int right) {
 	
 }
 
+
+/*the counting sort is not like others sorting algorithm*/
+void coutingSort(std::vector<int> &array) {
+
+}
